@@ -5,7 +5,7 @@
 - 🇯🇵 日本語も話せます。I can speak Japanese too.
 - 👀 I’m interested in many things,
 - 🌱 Right now I am studying NixOS and Haskell.
-- 📫 Reach me via github@voidzero.net.
+- 📫 Reach me via email: githubමvoidzero.net.
 - 👋 Bye now! See you around.
 
 <!---
