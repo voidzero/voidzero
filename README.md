@@ -1,5 +1,5 @@
 - 👋 Greetings, I’m @voidzero aka Mark;
-- 🇳🇱 a pure Dutch guy from the North;
+- 🇳🇱 from the Northern part of The Netherlands;
 - 👨‍👩‍👦‍👦 Married, with children.
 - 🇬🇧 I can speak English proficiently;
 - 🇯🇵 日本語も話せます。I can speak Japanese too.
